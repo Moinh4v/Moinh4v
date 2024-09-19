@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moinuddin TA</h1>
 <h3 align="center">Building Scalable Cloud Solutions | DevOps Automation | Pentesting Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinh4v" alt="moinh4v" /></a> </p>
-
 - 🔭 I’m currently working on **video-ai**
 
 - 🌱 I’m currently learning **elixir, wormable xss injections**
